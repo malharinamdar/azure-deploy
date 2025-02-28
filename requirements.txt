@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+faiss-cpu
+openai
+python-dotenv
+typing-extensions
+aiohttp
