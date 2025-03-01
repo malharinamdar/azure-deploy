@@ -8,3 +8,4 @@ openai
 python-dotenv
 typing-extensions
 aiohttp
+azure-identity
